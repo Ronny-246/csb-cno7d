@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://ronny-246.github.io/csb-cno7d/static/css/main.877645d6.chunk.css",
+    "main.js": "https://ronny-246.github.io/csb-cno7d/static/js/main.5fe50a14.chunk.js",
+    "main.js.map": "https://ronny-246.github.io/csb-cno7d/static/js/main.5fe50a14.chunk.js.map",
+    "runtime-main.js": "https://ronny-246.github.io/csb-cno7d/static/js/runtime-main.ee6ed637.js",
+    "runtime-main.js.map": "https://ronny-246.github.io/csb-cno7d/static/js/runtime-main.ee6ed637.js.map",
+    "static/js/2.4fd892fe.chunk.js": "https://ronny-246.github.io/csb-cno7d/static/js/2.4fd892fe.chunk.js",
+    "static/js/2.4fd892fe.chunk.js.map": "https://ronny-246.github.io/csb-cno7d/static/js/2.4fd892fe.chunk.js.map",
+    "index.html": "https://ronny-246.github.io/csb-cno7d/index.html",
+    "static/css/main.877645d6.chunk.css.map": "https://ronny-246.github.io/csb-cno7d/static/css/main.877645d6.chunk.css.map",
+    "static/js/2.4fd892fe.chunk.js.LICENSE.txt": "https://ronny-246.github.io/csb-cno7d/static/js/2.4fd892fe.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ee6ed637.js",
+    "static/js/2.4fd892fe.chunk.js",
+    "static/css/main.877645d6.chunk.css",
+    "static/js/main.5fe50a14.chunk.js"
+  ]
+}
